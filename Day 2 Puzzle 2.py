@@ -46,6 +46,7 @@ def finddupe(words):
 
     return dupe
 
+
 # Test of removeletter, expected value Counter({'bc': 2, 'de': 1})
 print(removeletter(['abc', 'bbc', 'cde'], 2))
 
