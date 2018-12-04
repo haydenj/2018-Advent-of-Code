@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c14d2ffa-6c91-4db6-a9e7-5d8171647308" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 3 Puzzle 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3 Puzzle 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 4 Puzzle 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 4 Puzzle 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2 Puzzle 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2 Puzzle 2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,31 +16,32 @@
     <session id="1110020092">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="369" />
-          <entry key="py" value="5704" />
+          <entry key="Python Console" value="439" />
+          <entry key="py" value="8299" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="6073" />
+          <entry key="Python" value="8738" />
         </counts>
       </usages-collector>
     </session>
@@ -84,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 2 Puzzle 2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
+            <state relative-caret-position="969">
               <caret line="57" selection-start-line="57" selection-end-line="57" />
               <folding>
                 <marker date="1543775126376" expanded="true" signature="250:255" ph="..." />
@@ -98,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 3 Puzzle 1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="55" lean-forward="true" selection-end-line="58" />
+            <state relative-caret-position="935">
+              <caret line="55" selection-end-line="58" />
               <folding>
                 <marker date="1543857663081" expanded="true" signature="238:243" ph="..." />
                 <marker date="1543857663081" expanded="true" signature="1451:1490" ph="..." />
@@ -108,14 +108,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 3 Puzzle 2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state>
+              <caret selection-end-line="7" selection-end-column="16" />
               <folding>
                 <marker date="1543858286229" expanded="true" signature="1479:1938" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 4 Puzzle 1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+              <folding>
+                <marker date="1543943544130" expanded="true" signature="392:397" ph="..." />
+                <marker date="1543943544130" expanded="true" signature="701:706" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 4 Puzzle 2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -142,12 +164,14 @@
         <option value="$PROJECT_DIR$/Day 2 Puzzle 2.py" />
         <option value="$PROJECT_DIR$/Day 3 Puzzle 1.py" />
         <option value="$PROJECT_DIR$/Day 3 Puzzle 2.py" />
+        <option value="$PROJECT_DIR$/Day 4 Puzzle 1.py" />
+        <option value="$PROJECT_DIR$/Day 4 Puzzle 2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1905" />
-    <option name="width" value="1950" />
+    <option name="x" value="-15" />
+    <option name="width" value="1948" />
     <option name="height" value="2075" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -202,49 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day 3 Puzzle 2">
-    <configuration name="Day 1 Puzzle 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2018-Advent-of-Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 1 Puzzle 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Day 2 Puzzle 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2018-Advent-of-Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 2 Puzzle 1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Day 4 Puzzle 2">
     <configuration name="Day 2 Puzzle 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2018-Advent-of-Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,20 +290,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Day 4 Puzzle 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2018-Advent-of-Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4 Puzzle 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day 4 Puzzle 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2018-Advent-of-Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 4 Puzzle 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Day 1 Puzzle 2" />
-      <item itemvalue="Python.Day 2 Puzzle 1" />
       <item itemvalue="Python.Day 2 Puzzle 2" />
       <item itemvalue="Python.Day 3 Puzzle 1" />
       <item itemvalue="Python.Day 3 Puzzle 2" />
+      <item itemvalue="Python.Day 4 Puzzle 1" />
+      <item itemvalue="Python.Day 4 Puzzle 2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day 4 Puzzle 2" />
+        <item itemvalue="Python.Day 4 Puzzle 1" />
         <item itemvalue="Python.Day 3 Puzzle 2" />
         <item itemvalue="Python.Day 3 Puzzle 1" />
         <item itemvalue="Python.Day 2 Puzzle 2" />
-        <item itemvalue="Python.Day 2 Puzzle 1" />
-        <item itemvalue="Python.Day 1 Puzzle 2" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +365,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16314399" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.083883755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -354,7 +378,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3243626" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -365,6 +389,13 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/Day 1 Puzzle 2.py" />
+    <entry file="file://$PROJECT_DIR$/Day 1 Puzzle 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 1 Puzzle 2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -385,16 +416,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 1 Puzzle 1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 2 Puzzle 2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
+        <state relative-caret-position="969">
           <caret line="57" selection-start-line="57" selection-end-line="57" />
           <folding>
             <marker date="1543775126376" expanded="true" signature="250:255" ph="..." />
@@ -406,8 +430,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 3 Puzzle 1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="55" lean-forward="true" selection-end-line="58" />
+        <state relative-caret-position="935">
+          <caret line="55" selection-end-line="58" />
           <folding>
             <marker date="1543857663081" expanded="true" signature="238:243" ph="..." />
             <marker date="1543857663081" expanded="true" signature="1451:1490" ph="..." />
@@ -417,10 +441,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 3 Puzzle 2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state>
+          <caret selection-end-line="7" selection-end-column="16" />
           <folding>
             <marker date="1543858286229" expanded="true" signature="1479:1938" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4 Puzzle 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4 Puzzle 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <marker date="1543943544130" expanded="true" signature="392:397" ph="..." />
+            <marker date="1543943544130" expanded="true" signature="701:706" ph="..." />
           </folding>
         </state>
       </provider>
